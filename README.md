@@ -142,8 +142,5 @@ yolo export model="models/sunxds_0.4.1.pt" format=engine device=0 imgsz=480 half
 - Do not increase the object search window resolution, this may affect your search speed.
 - If you have started the application and nothing happens, it may be working, close it with the F2 key and change the `show_window` option to `True` in the file [config.ini](https://github.com/SunOner/sunone_aimbot/blob/main/config.ini) to make sure that the application is working.
 
-## Support the project
-I will post new models [here](https://boosty.to/sunone).
-
 ## License
 This project is licensed under the MIT License. See **[LICENSE](https://github.com/SunOner/sunone_aimbot/blob/main/LICENSE)** for details
