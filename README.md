@@ -1,42 +1,15 @@
+
+# Testing fork of Sunone Aimbot
 <div align="center">
-
-# Sunone Aimbot
-[![Python Version](https://img.shields.io/badge/Python-3.11.6-FFD43B?logo=python)](https://github.com/SunOner/sunone_aimbot)
-[![License MIT](https://badgen.net/github/license/SunOner/sunone_aimbot)](https://github.com/SunOner/sunone_aimbot/blob/main/LICENSE)
-[![Github stars](https://img.shields.io/github/stars/SunOner/sunone_aimbot?color=ffb500)](https://github.com/SunOner/sunone_aimbot)
-[![Discord server](https://badgen.net/discord/online-members/sunone)](https://discord.gg/sunone)
-  <p>
-    <a href="https://github.com/SunOner/sunone_aimbot/releases" target="_blank">
-      <img width="75%" src="https://raw.githubusercontent.com/SunOner/sunone_aimbot/main/media/one.gif"></a>
-  </p>
-</div>
-
-## Overview
-Sunone Aimbot is an AI-powered aim bot for first-person shooter games. It leverages the YOLOv8 and YOLOv10 models, PyTorch, and various other tools to automatically target and aim at enemies within the game. The AI model in repository has been trained on more than 30,000 images from popular first-person shooter games like Warface, Destiny 2, Battlefield 2042, CS:GO, Fortnite, The Finals, CS2 and more.
-> [!WARNING]
-> Use it at your own risk, we do not guarantee that you may be blocked!
+ AI-powered aim bot for first-person shooter games. It leverages the YOLOv8 and YOLOv10 models, PyTorch, and various other tools to automatically target and aim at enemies within the game. The AI model in repository has been trained on more than 30,000 images from popular first-person shooter games like Warface, Destiny 2, Battlefield 2042, CS:GO, Fortnite, The Finals, CS2 and more.
 
 > [!NOTE] 
-> This application only works on Nvidia graphics cards. AMD support is testing. See [AI_enable_AMD](https://github.com/SunOner/sunone_aimbot?tab=readme-ov-file#ai) option.
+> This application only works on Nvidia graphics cards. AMD support is testing.
 > The recommended graphics card for starting and more productive and stable operation starts with the rtx 20 series.
 
 ## Requirements
-Before you get started, make sure you have the following prerequisites installed and pay attention to the versions in [Tested Environment](https://github.com/SunOner/sunone_aimbot?tab=readme-ov-file#tested-environment) block, this may cause errors in launching the aimbot.
+Before you get started, make sure you have the following prerequisites installed and pay attention to the versions in [Tested Environment]
 
-- Information in English:
-  - [Auto-Install guide](https://github.com/SunOner/sunone_aimbot/blob/main/docs/en/helper_en.md)
-  - [Self install guide](https://github.com/SunOner/sunone_aimbot/blob/main/docs/en/install_guide_en.md)
-  - [Questions and answers](https://github.com/SunOner/sunone_aimbot/blob/main/docs/en/questions_en.md)
-  - [Arduino setup](https://github.com/SunOner/HID_Arduino)
-  - [Discord server](https://discord.gg/sunone)
-<br></br>
-- Информация на Русском языке:
-  - [Инструкция по автоматической установке](https://github.com/SunOner/sunone_aimbot/blob/main/docs/ru/helper_ru.md)
-  - [Инструкция по установке в ручную](https://github.com/SunOner/sunone_aimbot/blob/main/docs/ru/install_guide_ru.md)
-  - [Вопросы и ответы](https://github.com/SunOner/sunone_aimbot/blob/main/docs/ru/questions_ru.md)
-  - [Установка ардуино](https://github.com/SunOner/HID_Arduino)
-  - [Discord сервер](https://discord.gg/sunone)
-<br></br>
 - To launch the aimbot after all installations, type `py run.py` or `py launcher.py` to open gui settings.
 
 ## Tested Environment
